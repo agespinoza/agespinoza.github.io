@@ -1,7 +1,7 @@
 # agespinoza.github.io
 # Alicia Espinoza’s Portfolio
 
-[📧 Email](mailto:achocoza@gmail.com) | [📱 (520) 381-9848](tel:+15203819848) | [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
+[📧 Email](mailto:achocoza@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
 
 ---
 
