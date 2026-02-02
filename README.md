@@ -29,6 +29,9 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Backend development in Java with Jakarta EE 10; frontend support in JavaScript.
 - Gathered requirements, researched solutions, reviewed specifications, and implemented algorithms and test procedures.
 
+#### Repositories used for the projects :
+- https://github.com/AstrolabeProject
+
 ### Lead Software Engineer – OPUS Inspection | May 2019 – Oct 2023
 - Developed mission operations automation tools using Java and Python.
 - Designed algorithms for flight rule validation, pointing constraint resolution, and artifact delivery.
@@ -36,6 +39,10 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Migrated legacy data warehouses between Azure and SQL Server.
 - Integrated and customized NetSuite; coordinated distributed systems with Azure and AWS.
 - Applied Agile methodologies with DevOps, SCRUM, and Kanban.
+
+### I was working with this sites :
+- https://virginiavip.org/VidCentral/Login.aspx?ReturnUrl=%2fVidCentral
+- https://www.wisconsinvip.org/VidCentral/Login.aspx
 
 ### Full Stack Automation Engineer – NOVA Home Loans | May 2017 – May 2019
 - Developed automation tools using C#, SQL Server, MDX, GraphQL, and JavaScript.
