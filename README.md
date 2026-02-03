@@ -12,7 +12,7 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 ## Core Competencies
 
 **Programming & Frameworks:** Java, Python, C#, VB.NET, PHP, JavaScript, React, Angular, GraphQL, ASP.NET, Swift, COBOL  
-**Data & Analytics:** SQL Server, Oracle, PostgreSQL, MySQL, Power BI, Tableau, QuickSight, SAS, SPSS, R  [Samples of Data Analytics](https://github.com/agespinoza/Data-Analytics)  
+**[Data & Analytics](https://github.com/agespinoza/Data-Analytics)  :** SQL Server, Oracle, PostgreSQL, MySQL, Power BI, Tableau, QuickSight, SAS, SPSS, R 
 **Cloud & DevOps:** Azure (Data Factory, Cosmos DB, Data Lakes), AWS (Neptune, QuickSight), Git, Azure DevOps  
 **Development Methodologies:** Agile (SCRUM, Kanban), CI/CD, ETL, Data Warehousing, Machine Learning  
 **Tools & Platforms:** NetSuite, SAP ERP 6.0, WPF, Delphi, Power Builder, MATLAB
