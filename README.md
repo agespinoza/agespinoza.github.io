@@ -29,8 +29,8 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Gathered requirements, researched solutions, reviewed specifications, and implemented algorithms and test procedures.
 
 #### Repositories used for the projects :
-- [Astrolabe Project](https://github.com/achocoza/](https://github.com/AstrolabeProject)
-- [Arizona astrolabe Project] (https://gitlab.com/arizona-astrolabe/desktop/astrolabe-desktop)
+- [Astrolabe Project](https://github.com/AstrolabeProject/)
+- [Arizona astrolabe Project](https://gitlab.com/arizona-astrolabe/desktop/astrolabe-desktop)
 
 ### Lead Software Engineer – OPUS Inspection | May 2019 – Oct 2023
 - Developed mission operations automation tools using Java and Python.
@@ -41,8 +41,8 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Applied Agile methodologies with DevOps, SCRUM, and Kanban.
 
 ### I was working with this sites :
-- [🔗 Virginia OPUS VID CENTRAL Project] (https://virginiavip.org/VidCentral/Login.aspx?ReturnUrl=%2fVidCentral)
-- [🔗 Wisconsin OPUS VID CENTRAL Project] (https://www.wisconsinvip.org/VidCentral/Login.aspx)
+- [Virginia OPUS VID CENTRAL Project](https://virginiavip.org/VidCentral/Login.aspx?ReturnUrl=%2fVidCentral)
+- [Wisconsin OPUS VID CENTRAL Project](https://www.wisconsinvip.org/VidCentral/Login.aspx)
 
 ### Full Stack Automation Engineer – NOVA Home Loans | May 2017 – May 2019
 - Developed automation tools using C#, SQL Server, MDX, GraphQL, and JavaScript.
@@ -51,7 +51,7 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Collaborated in Agile teams using Jira.
   
 #### I was working with this sites :
--  [🔗 Virginia OPUS VID CENTRAL Project] https://nova.servicingdivision.com/Account/Login?ReturnUrl=%2F
+-  [Virginia OPUS VID CENTRAL Project](https://nova.servicingdivision.com/Account/Login?ReturnUrl=%2F)
 
 ### Software Programmer – MISOM Technologies | Jan 2017 – Apr 2017
 - Developed business intelligence systems and automated ETL reporting.
