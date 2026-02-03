@@ -1,4 +1,3 @@
-# agespinoza.github.io
 # Alicia Espinoza’s Portfolio
 
 [📧 Email](mailto:achocoza@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
