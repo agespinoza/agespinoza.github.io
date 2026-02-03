@@ -1,6 +1,6 @@
 # Alicia Espinoza’s Portfolio
 
-[📧 Email](mailto:achocoza@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
+[📧 Email](mailto:achocoza@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/) | [🔗 Old Github](https://github.com/achocoza/)
 
 ---
 
@@ -50,7 +50,7 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Designed ETL pipelines for automated reporting and analytics.
 - Collaborated in Agile teams using Jira.
 - 
-### I was working with this sites :
+#### I was working with this sites :
 - https://nova.servicingdivision.com/Account/Login?ReturnUrl=%2F
 
 ### Software Programmer – MISOM Technologies | Jan 2017 – Apr 2017
