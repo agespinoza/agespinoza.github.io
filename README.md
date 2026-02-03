@@ -29,8 +29,8 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 - Gathered requirements, researched solutions, reviewed specifications, and implemented algorithms and test procedures.
 
 #### Repositories used for the projects :
-- [🔗 Astrolabe Project](https://github.com/achocoza/](https://github.com/AstrolabeProject)
-- [🔗 Arizona astrolabe Project] (https://gitlab.com/arizona-astrolabe/desktop/astrolabe-desktop)
+- [Astrolabe Project](https://github.com/achocoza/](https://github.com/AstrolabeProject)
+- [Arizona astrolabe Project] (https://gitlab.com/arizona-astrolabe/desktop/astrolabe-desktop)
 
 ### Lead Software Engineer – OPUS Inspection | May 2019 – Oct 2023
 - Developed mission operations automation tools using Java and Python.
