@@ -1,112 +1,106 @@
 ---
 theme: default
-title: Alicia Espinoza – Senior Software Engineer
+title: Alicia Espinoza – Komatsu Interview
+transition: fade-out
+highlighter: shiki
+css: ./style.css
+layout: cover
 ---
 
 # Alicia Espinoza
-## Senior Software Engineer
+## Senior Software Engineer · Data & Cloud Analytics
 
-Enterprise · Data · Cloud Systems  
+<div class="subtitle">
+Mining Technology · Analytics Platforms · Azure SQL · Python
+</div>
 
-📍 Tucson, AZ  
-📧 achocoza@gmail.com  
-🔗 linkedin.com/in/achocoza
+<div class="meta">
+📍 Tucson, AZ · 📧 achocoza@gmail.com · 🔗 linkedin.com/in/achocoza
+</div>
 
----
-
-## Executive Profile
-
-- Senior Software Engineer with 20+ years of experience
-- Background across industrial, government, and academic environments
-- Expertise in backend systems, automation, and data platforms
-- Strong technical leadership in Agile teams
-
----
-
-## Value Proposition for Komatsu
-
-- Design and delivery of **mission-critical systems**
-- Strong focus on **reliability, scalability, and automation**
-- Data engineering, ETL pipelines, and analytics platforms
-- Cloud-native development with **Azure and AWS**
+<div class="tagrow">
+  <span class="tag">Azure</span>
+  <span class="tag">ETL / Data Warehousing</span>
+  <span class="tag">Python</span>
+  <span class="tag">CI/CD</span>
+  <span class="tag">APIs</span>
+</div>
 
 ---
 
-## Current Role  
-### University of Arizona – Space Institute
+layout: section
+---
 
-- Research & Software Engineer II (2024–2026)
-- Java and Python for mission operations automation
-- Backend systems using Jakarta EE 10
-- Requirements analysis, algorithms, testing, and validation
+# Executive Profile
+
+<div class="card">
+<ul>
+  <li><b>20+ years</b> building enterprise software across industrial, government, education, and private sectors.</li>
+  <li>Specialized in <b>data engineering</b>, <b>cloud integration</b>, and <b>automation</b> with a product mindset.</li>
+  <li>Strong track record modernizing legacy systems and delivering <b>scalable analytics solutions</b>.</li>
+  <li>Comfortable partnering with stakeholders, data science, and distributed teams using <b>Agile</b>.</li>
+</ul>
+</div>
+
+<div class="note">
+Interview focus: turning operational data into production-ready cloud analytics.
+</div>
 
 ---
 
-## OPUS Inspection  
-### Lead Software Engineer
+layout: section
+---
 
-- Lead Engineer (2019–2023)
-- ETL & SQL optimization with Power BI, R, and Python
-- C#, .NET Core, React, GraphQL, REST APIs
-- Azure DevOps CI/CD and cloud architectures
+# Why Komatsu (Digital Services)
+
+<div class="grid2">
+  <div class="card">
+    <h3>What you need</h3>
+    <ul>
+      <li>Productize data pipelines</li>
+      <li>Operate & monitor an analytics platform</li>
+      <li>Azure DevOps + CI/CD</li>
+      <li>Python, SQL, warehousing, Spark-ready design</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>What I bring</h3>
+    <ul>
+      <li>End-to-end delivery: design → build → run</li>
+      <li>ETL + dimensional modeling + KPI layers</li>
+      <li>Reliability, scalability, and automation mindset</li>
+      <li>Clear communication with global teams</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-## Nova Home Loans  
-### Full Stack Automation Engineer
-
-- Enterprise automation and reporting systemsq
-- C#, SQL Server, GraphQL, JavaScript
-- ETL pipelines for analytics
-- Agile delivery using Scrum and Jira
-
+layout: section
 ---
 
-## Industrial & Government Systems
+# Sample Project for Komatsu
+## Mining Telemetry → Analytics KPIs (Azure SQL)
 
-- Full Stack Engineer & IT Manager (Public Sector)
-- Internal enterprise systems and services
-- Database administration and large-scale data migration
-- Long-term system stability and maintainability
+<div class="card">
+<b>Problem:</b> Mining telemetry data must be transformed into actionable KPIs for operations and reliability.
+<br/><br/>
+<b>Solution:</b> A small analytics platform using a star schema in Azure SQL and KPI views ready for dashboards/APIs.
+</div>
 
----
-
-## Technical Leadership & Teaching
-
-- Associate Professor (2008–2015)
-- Mentoring developers and engineering students
-- Clear communication with technical & non-technical stakeholders
-
----
-
-## Core Technical Skills
-
-- Languages: C#, Java, Python, JavaScript, PHP
-- Backend & Web: ASP.NET, React, Angular, REST, GraphQL
-- Data & BI: Power BI, Tableau, QuickSight
-- Cloud: Microsoft Azure, AWS
-
----
-
-## Databases & Engineering Practices
-
-- Oracle, SQL Server, PostgreSQL
-- Agile: Scrum & Kanban
-- CI/CD pipelines and DevOps
-- Foundations in Machine Learning
-
----
-
-## Education
-
-- Doctorate in Education – University IEU Puebla
-- Master’s in IT Management & E-Business – UABC
-- B.S. in Software Engineering – Distributed Systems
-
----
-
-## Closing
-
-- Senior Software Engineer aligned with industrial-scale systems
-- Strong focus on quality, automation, and operational excellence
-- Ready to contribute to Komatsu’s digital transformation
+<div class="grid2">
+  <div class="card">
+    <h3>KPIs delivered</h3>
+    <ul>
+      <li>Equipment utilization</li>
+      <li>Fuel efficiency</li>
+      <li>Overheat detection</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Engineering practices</h3>
+    <ul>
+      <li>Data model + curated views</li>
+      <li>Repeatable build & documentation</li>
+      <li>Designed to e
