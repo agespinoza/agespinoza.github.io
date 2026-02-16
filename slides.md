@@ -103,4 +103,185 @@ layout: section
     <ul>
       <li>Data model + curated views</li>
       <li>Repeatable build & documentation</li>
-      <li>Designed to e
+      <li>Designed to extend to Spark/Kafka</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+layout: section
+---
+
+# Architecture (high level)
+
+<div class="card mono">
+Telemetry (raw) → Data Lake (optional) → ETL → Azure SQL (star schema) → KPI Views → Dashboard / API
+</div>
+
+<div class="note">
+This matches Modular’s Digital Services: operational data → cloud analytics → business outcomes.
+</div>
+
+---
+
+layout: section
+---
+
+# Data Model (Star Schema)
+
+<div class="grid2">
+  <div class="card">
+    <h3>Dimensions</h3>
+    <ul>
+      <li><b>dim_truck</b> — equipment master data</li>
+      <li><b>dim_site</b> — mine/site context</li>
+      <li><b>dim_time</b> — hourly time grain</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Fact</h3>
+    <ul>
+      <li><b>fact_telemetry</b> — events & measurements</li>
+      <li>engine_temp, fuel_rate, payload, cycle_time, status</li>
+    </ul>
+  </div>
+</div>
+
+<div class="card">
+<b>Analytics layer:</b> KPI views (utilization, fuel efficiency, overheat events) designed for reporting/APIs.
+</div>
+
+---
+
+layout: section
+---
+
+# Core Skills (aligned to the role)
+
+<div class="grid3">
+  <div class="card">
+    <h3>Cloud & DevOps</h3>
+    <ul>
+      <li>Azure PaaS (ADLS/Storage, Azure SQL)</li>
+      <li>Azure DevOps · Git</li>
+      <li>CI/CD pipelines</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Data Engineering</h3>
+    <ul>
+      <li>ETL/ELT · Data Warehousing</li>
+      <li>SQL performance tuning</li>
+      <li>Spark-ready pipeline design</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Software Engineering</h3>
+    <ul>
+      <li>Python · Java · C#</li>
+      <li>REST APIs · automation</li>
+      <li>Agile · code reviews</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+layout: section
+---
+
+# Current Role
+## University of Arizona – Space Institute (R&D Software Engineer II)
+
+<div class="card">
+<ul>
+  <li>Developed Java & Python software for mission operations automation.</li>
+  <li>Algorithm implementation, requirements analysis, testing, and validation.</li>
+  <li>Backend work with Jakarta EE; collaboration across technical teams.</li>
+</ul>
+</div>
+
+<div class="note">
+Strength: building reliable systems under constraints and delivering high-quality software artifacts.
+</div>
+
+---
+
+layout: section
+---
+
+# OPUS Inspection
+## Lead Software Engineer
+
+<div class="card">
+<ul>
+  <li>Led engineering delivery for enterprise systems and analytics workflows.</li>
+  <li>Improved ETL and SQL performance using Python/R and BI tools.</li>
+  <li>Cloud integrations and CI/CD with Azure DevOps.</li>
+</ul>
+</div>
+
+---
+
+layout: section
+---
+
+# NOVA Home Loans
+## Full Stack Automation Engineer
+
+<div class="card">
+<ul>
+  <li>Built automation tools and reporting pipelines using C#, SQL Server, and JavaScript.</li>
+  <li>Developed integrations and internal applications with Angular/React.</li>
+  <li>Agile execution with Scrum and Jira.</li>
+</ul>
+</div>
+
+---
+
+layout: section
+---
+
+# Leadership & Teaching
+
+<div class="grid2">
+  <div class="card">
+    <h3>Leadership</h3>
+    <ul>
+      <li>Mentoring and peer reviews</li>
+      <li>Clear documentation and design decisions</li>
+      <li>Cross-functional communication</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Teaching</h3>
+    <ul>
+      <li>Adjunct Professor (2008–2015)</li>
+      <li>Explaining complex concepts simply</li>
+      <li>Supporting teams with different backgrounds</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+layout: section
+---
+
+# Closing
+
+<div class="card">
+<ul>
+  <li>Proven ability to build and operate <b>cloud analytics platforms</b>.</li>
+  <li>Strong alignment with Modular’s Digital Services: <b>data → KPIs → outcomes</b>.</li>
+  <li>Ready to contribute to Komatsu with a reliable, production-first engineering mindset.</li>
+</ul>
+</div>
+
+<div class="note">
+Thank you — I’m happy to walk through the sample architecture and KPI layer.
+</div>
