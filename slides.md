@@ -55,7 +55,7 @@ Enterprise · Data · Cloud Systems
 ## Nova Home Loans  
 ### Full Stack Automation Engineer
 
-- Enterprise automation and reporting systems
+- Enterprise automation and reporting systemsq
 - C#, SQL Server, GraphQL, JavaScript
 - ETL pipelines for analytics
 - Agile delivery using Scrum and Jira

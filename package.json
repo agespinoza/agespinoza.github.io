@@ -1,0 +1,13 @@
+{
+ "scripts": {
+  "dev": "slidev slides.md --open",
+  "build": "slidev build slides.md --out docs --base /"
+},
+  "devDependencies": {
+    "@slidev/cli": "^52.12.0",
+    "@slidev/theme-seriph": "^0.25.0"
+  },
+  "dependencies": {
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
