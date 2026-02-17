@@ -10,278 +10,256 @@ layout: cover
 # Alicia Espinoza
 ## Senior Software Engineer · Data & Cloud Analytics
 
-<div class="subtitle">
-Mining Technology · Analytics Platforms · Azure SQL · Python
-</div>
+Mining Technology · Analytics Platforms · Azure SQL · Power BI
 
-<div class="meta">
-📍 Tucson, AZ · 📧 achocoza@gmail.com · 🔗 linkedin.com/in/achocoza
-</div>
+📍 Tucson, AZ
 
-<div class="tagrow">
-  <span class="tag">Azure</span>
-  <span class="tag">ETL / Data Warehousing</span>
-  <span class="tag">Python</span>
-  <span class="tag">CI/CD</span>
-  <span class="tag">APIs</span>
+<div class="mt-6 flex">
+
+[📧 Email](mailto:achocoza@gmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
+[💻 GitHub Portfolio](https://agespinoza.github.io/)
+[💻 Sample](https://agespinoza.github.io/)
 </div>
 
 ---
 
-layout: section
+# What I Build
+
+End-to-end analytics platforms that turn operational data into:
+
+- Trusted KPIs  
+- Scalable cloud solutions  
+- Production-ready data services  
+
+From ingestion → transformation → curated model → consumption.
+
+
 ---
 
-# Executive Profile
+# Experience Highlights
 
+<div class="grid2">
 <div class="card">
-<ul>
-  <li><b>20+ years</b> building enterprise software across industrial, government, education, and private sectors.</li>
-  <li>Specialized in <b>data engineering</b>, <b>cloud integration</b>, and <b>automation</b> with a product mindset.</li>
-  <li>Strong track record modernizing legacy systems and delivering <b>scalable analytics solutions</b>.</li>
-  <li>Comfortable partnering with stakeholders, data science, and distributed teams using <b>Agile</b>.</li>
-</ul>
-</div>
 
-<div class="note">
-Interview focus: turning operational data into production-ready cloud analytics.
-</div>
 
----
+### University of Arizona – Space Institute
 
-layout: section
----
+- Mission-critical automation
+- Algorithm validation
+- Strong testing practices
 
-# Why Komatsu (Digital Services)
-
-<div class="grid2">
-  <div class="card">
-    <h3>What you need</h3>
-    <ul>
-      <li>Productize data pipelines</li>
-      <li>Operate & monitor an analytics platform</li>
-      <li>Azure DevOps + CI/CD</li>
-      <li>Python, SQL, warehousing, Spark-ready design</li>
-    </ul>
-  </div>
-
-  <div class="card">
-    <h3>What I bring</h3>
-    <ul>
-      <li>End-to-end delivery: design → build → run</li>
-      <li>ETL + dimensional modeling + KPI layers</li>
-      <li>Reliability, scalability, and automation mindset</li>
-      <li>Clear communication with global teams</li>
-    </ul>
-  </div>
-</div>
-
----
-
-layout: section
----
-
-# Sample Project for Komatsu
-## Mining Telemetry → Analytics KPIs (Azure SQL)
-
-<div class="card">
-<b>Problem:</b> Mining telemetry data must be transformed into actionable KPIs for operations and reliability.
-<br/><br/>
-<b>Solution:</b> A small analytics platform using a star schema in Azure SQL and KPI views ready for dashboards/APIs.
-</div>
-
-<div class="grid2">
-  <div class="card">
-    <h3>KPIs delivered</h3>
-    <ul>
-      <li>Equipment utilization</li>
-      <li>Fuel efficiency</li>
-      <li>Overheat detection</li>
-    </ul>
-  </div>
-  <div class="card">
-    <h3>Engineering practices</h3>
-    <ul>
-      <li>Data model + curated views</li>
-      <li>Repeatable build & documentation</li>
-      <li>Designed to extend to Spark/Kafka</li>
-    </ul>
-  </div>
-</div>
-
----
-
-layout: section
----
-
-# Architecture (high level)
-
-<div class="card mono">
-Telemetry (raw) → Data Lake (optional) → ETL → Azure SQL (star schema) → KPI Views → Dashboard / API
-</div>
-
-<div class="note">
-This matches Modular’s Digital Services: operational data → cloud analytics → business outcomes.
-</div>
-
----
-
-layout: section
----
-
-# Data Model (Star Schema)
-
-<div class="grid2">
-  <div class="card">
-    <h3>Dimensions</h3>
-    <ul>
-      <li><b>dim_truck</b> — equipment master data</li>
-      <li><b>dim_site</b> — mine/site context</li>
-      <li><b>dim_time</b> — hourly time grain</li>
-    </ul>
-  </div>
-
-  <div class="card">
-    <h3>Fact</h3>
-    <ul>
-      <li><b>fact_telemetry</b> — events & measurements</li>
-      <li>engine_temp, fuel_rate, payload, cycle_time, status</li>
-    </ul>
-  </div>
 </div>
 
 <div class="card">
-<b>Analytics layer:</b> KPI views (utilization, fuel efficiency, overheat events) designed for reporting/APIs.
+### OPUS Inspection
+
+- Data warehouse migration to Azure
+- ETL performance optimization
+- Power BI analytics models
+
+</div>
+
+</div>
+---
+
+# Experience Highlights
+
+
+<div class="grid2">
+<div class="card">
+
+### NOVA Home Loans
+
+- Reporting automation
+- Internal applications
+- Agile execution
+
+</div>
+
+
+<div class="card">
+
+### MISOM Technologies – Mining BI Systems
+
+- Development of business intelligence solutions for mining operations
+- ETL pipelines for operational and analytical reporting
+- Close alignment between data and real-world industrial processes
+
+</div>
 </div>
 
 ---
 
-layout: section
+
+
+# Leadership & Communication
+
+
+<div class="grid2">
+
+<div class="card">
+
+### Technical Leadership
+
+- Mentoring developers and students
+- Code and design reviews
+- Clear technical documentation
+- Turning requirements into deliverable solutions
+
+</div>
+
+<div class="card">
+
+### Teaching Experience
+
+Adjunct Professor (2008–2015)
+
+- Explaining complex concepts to diverse audiences
+- Structured thinking and knowledge transfer
+- Strong communication with technical and non-technical stakeholders
+
+</div>
+
+</div>
+---
 ---
 
-# Core Skills (aligned to the role)
+# Core Skills
 
 <div class="grid3">
-  <div class="card">
-    <h3>Cloud & DevOps</h3>
-    <ul>
-      <li>Azure PaaS (ADLS/Storage, Azure SQL)</li>
-      <li>Azure DevOps · Git</li>
-      <li>CI/CD pipelines</li>
-    </ul>
-  </div>
 
-  <div class="card">
-    <h3>Data Engineering</h3>
-    <ul>
-      <li>ETL/ELT · Data Warehousing</li>
-      <li>SQL performance tuning</li>
-      <li>Spark-ready pipeline design</li>
-    </ul>
-  </div>
+<div class="card">
 
-  <div class="card">
-    <h3>Software Engineering</h3>
-    <ul>
-      <li>Python · Java · C#</li>
-      <li>REST APIs · automation</li>
-      <li>Agile · code reviews</li>
-    </ul>
-  </div>
+### Cloud & DevOps
+
+- Azure SQL
+- CI/CD mindset
+- Git
+
+</div>
+
+<div class="card">
+
+### Data Engineering
+
+- ETL / ELT
+- Dimensional modeling
+- SQL performance
+
+</div>
+
+<div class="card">
+
+### Software Engineering
+
+- Python · Java · C#
+- REST APIs
+- Agile delivery
+
+</div>
+
+</div>
+---
+
+
+
+---
+
+# Why Komatsu
+
+Modular Digital Services focuses on turning operational data into cloud analytics.
+
+What I bring:
+
+- Curated KPI layer
+- Reliable and scalable delivery
+- Platform mindset
+- Repeatable pipelines
+
+---
+
+# Sample & KPIs
+
+## Mining Telemetry → Operational KPIs
+
+<div class="grid2">
+
+<div class="card">
+
+### KPIs
+
+- Utilization %
+- Fuel efficiency (L / ton)
+- Overheat events
+
+</div>
+
+<div class="card">
+
+### Engineering mindset
+
+- Star schema
+- SQL KPI views
+- Accurate aggregations
+- Power BI semantic layer
+
+</div>
+
 </div>
 
 ---
 
-layout: section
----
+# Architecture
 
-# Current Role
-## University of Arizona – Space Institute (R&D Software Engineer II)
+<div class="card mono">
 
-<div class="card">
-<ul>
-  <li>Developed Java & Python software for mission operations automation.</li>
-  <li>Algorithm implementation, requirements analysis, testing, and validation.</li>
-  <li>Backend work with Jakarta EE; collaboration across technical teams.</li>
-</ul>
+Telemetry → Ingestion → ETL → Azure SQL → KPI Views → Power BI / API
+
 </div>
 
 <div class="note">
-Strength: building reliable systems under constraints and delivering high-quality software artifacts.
+Dashboards never query raw telemetry — only curated data.
 </div>
 
 ---
 
-layout: section
----
-
-# OPUS Inspection
-## Lead Software Engineer
-
-<div class="card">
-<ul>
-  <li>Led engineering delivery for enterprise systems and analytics workflows.</li>
-  <li>Improved ETL and SQL performance using Python/R and BI tools.</li>
-  <li>Cloud integrations and CI/CD with Azure DevOps.</li>
-</ul>
-</div>
-
----
-
-layout: section
----
-
-# NOVA Home Loans
-## Full Stack Automation Engineer
-
-<div class="card">
-<ul>
-  <li>Built automation tools and reporting pipelines using C#, SQL Server, and JavaScript.</li>
-  <li>Developed integrations and internal applications with Angular/React.</li>
-  <li>Agile execution with Scrum and Jira.</li>
-</ul>
-</div>
-
----
-
-layout: section
----
-
-# Leadership & Teaching
+# Data Model
 
 <div class="grid2">
-  <div class="card">
-    <h3>Leadership</h3>
-    <ul>
-      <li>Mentoring and peer reviews</li>
-      <li>Clear documentation and design decisions</li>
-      <li>Cross-functional communication</li>
-    </ul>
-  </div>
-  <div class="card">
-    <h3>Teaching</h3>
-    <ul>
-      <li>Adjunct Professor (2008–2015)</li>
-      <li>Explaining complex concepts simply</li>
-      <li>Supporting teams with different backgrounds</li>
-    </ul>
-  </div>
+
+<div class="card">
+
+### Dimensions
+
+- dim_truck  
+- dim_site  
+- dim_time  
+
 </div>
 
----
+<div class="card">
 
-layout: section
----
+### Fact
 
+fact_telemetry:
+
+- status  
+- payload  
+- fuel_rate  
+- engine_temp  
+- duration  
+
+</div>
+
+</div>
+---
 # Closing
 
 <div class="card">
-<ul>
-  <li>Proven ability to build and operate <b>cloud analytics platforms</b>.</li>
-  <li>Strong alignment with Modular’s Digital Services: <b>data → KPIs → outcomes</b>.</li>
-  <li>Ready to contribute to Komatsu with a reliable, production-first engineering mindset.</li>
-</ul>
-</div>
 
-<div class="note">
-Thank you — I’m happy to walk through the sample architecture and KPI layer.
+- I build production-ready analytics platforms
+- I focus on trusted KPIs and reliability
+- Strong alignment with Komatsu Digital Services
+
 </div>

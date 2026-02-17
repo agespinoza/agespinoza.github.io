@@ -1,105 +1,118 @@
-/* Global background */
+/* GLOBAL THEME */
+
 .slidev-layout {
-  background: radial-gradient(1200px 800px at 10% 10%, rgba(90, 169, 255, 0.20), transparent 60%),
-              radial-gradient(1000px 700px at 90% 20%, rgba(0, 200, 150, 0.16), transparent 55%),
-              radial-gradient(900px 700px at 30% 90%, rgba(255, 140, 90, 0.12), transparent 55%),
-              linear-gradient(180deg, rgba(10, 14, 20, 0.92), rgba(10, 14, 20, 0.92));
-  color: #e9eef7;
+  background:
+    radial-gradient(1200px 800px at 10% 10%, rgba(255, 196, 0, 0.15), transparent 60%),
+    radial-gradient(1000px 700px at 90% 20%, rgba(255, 140, 0, 0.12), transparent 55%),
+    linear-gradient(180deg, #0f1115 0%, #0a0c10 100%);
+  color: #e8edf2;
+  font-family: 'Inter', system-ui, sans-serif;
 }
 
-/* Headings */
-h1, h2, h3 {
-  letter-spacing: 0.2px;
-}
+/* HEADINGS */
 
 h1 {
-  font-size: 2.4rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
 }
 
-.subtitle {
-  margin-top: 0.5rem;
-  font-size: 1.1rem;
-  opacity: 0.9;
+h2 {
+  font-weight: 600;
+  color: #ffc400;
 }
 
-.meta {
-  margin-top: 0.8rem;
-  font-size: 0.95rem;
-  opacity: 0.85;
-}
-
-/* Cards */
-.card {
-  background: rgba(255, 255, 255, 0.06);
-  border: 1px solid rgba(255, 255, 255, 0.14);
-  border-radius: 18px;
-  padding: 18px 20px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
-}
-
-.card h3 {
+h3 {
   margin-top: 0;
-  margin-bottom: 0.5rem;
+  font-weight: 600;
 }
+
+/* LINKS */
+
+a {
+  color: #ffc400;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* CARDS */
+
+.card {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 196, 0, 0.25);
+  border-radius: 14px;
+  padding: 22px;
+  backdrop-filter: blur(6px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
+/* NOTES / CALLOUTS */
 
 .note {
-  margin-top: 14px;
-  font-size: 0.95rem;
-  opacity: 0.85;
+  margin-top: 18px;
+  font-size: 0.9rem;
+  color: #9aa4af;
 }
 
-/* Tags */
-.tagrow {
-  margin-top: 14px;
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-.tag {
-  padding: 6px 10px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.10);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  font-size: 0.85rem;
-}
+/* GRID LAYOUTS */
 
-/* Layout helpers */
 .grid2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 16px;
-  align-items: start;
+  gap: 18px;
 }
 
 .grid3 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 16px;
-  align-items: start;
+  gap: 18px;
 }
 
-/* Monospace snippet */
+/* COVER META */
+
+.meta {
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #9aa4af;
+}
+
+/* SUBTITLE */
+
+.subtitle {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  color: #9aa4af;
+}
+
+/* MONO ARCHITECTURE LINE */
+
 .mono {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
   font-size: 0.95rem;
 }
 
-/* Make lists clean */
+/* SPACING HELPERS */
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+/* FLEX FOR COVER LINKS */
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+/* LIST STYLE CLEANER */
+
 ul {
-  margin: 0.4rem 0 0;
-}
-li {
-  margin: 0.35rem 0;
-}
-
-/* Better section layout spacing */
-.slidev-layout.section {
-  justify-content: center;
-}
-
-/* Responsive */
-@media (max-width: 900px) {
-  .grid2, .grid3 {
-    grid-template-columns: 1fr;
-  }
+  line-height: 1.6;
 }
