@@ -18,8 +18,8 @@ Mining Technology · Analytics Platforms · Azure SQL · Power BI
 
 [📧 Email](mailto:achocoza@gmail.com)
 [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
-[💻 GitHub Portfolio](https://agespinoza.github.io/)
-[💻 Sample](https://agespinoza.github.io/)
+[💻 GitHub Portfolio](https://github.com/agespinoza/)
+[💻 Sample](https://github.com/agespinoza/komatsu-mining-analytics/blob/main/README.md)
 </div>
 
 ---
