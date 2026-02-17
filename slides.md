@@ -19,6 +19,7 @@ Mining Technology · Analytics Platforms · Azure SQL · Power BI
 [📧 Email](mailto:achocoza@gmail.com)
 [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
 [💻 GitHub Portfolio](https://github.com/agespinoza/)
+[💻 Resume](https://github.com/agespinoza/agespinoza.github.io/blob/main/Alicia%20Espinoza%20Resume.pdf)
 [💻 Sample](https://github.com/agespinoza/komatsu-mining-analytics/blob/main/README.md)
 </div>
 
