@@ -165,8 +165,6 @@ Adjunct Professor (2008–2015)
 
 
 
----
-
 # Why Komatsu
 
 Modular Digital Services focuses on turning operational data into cloud analytics.
