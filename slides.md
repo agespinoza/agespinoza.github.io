@@ -18,23 +18,24 @@ Mining Technology · Analytics Platforms · Azure SQL · Power BI
 
 [📧 Email](mailto:achocoza@gmail.com)
 [🔗 LinkedIn](https://www.linkedin.com/in/achocoza/)
-[💻 GitHub Portfolio](https://github.com/agespinoza/)
+[💻 GitHub Portfolio](https://github.com/agespinoza/agespinoza.github.io)
 [💻 Resume](https://github.com/agespinoza/agespinoza.github.io/blob/main/Alicia%20Espinoza%20Resume.pdf)
 [💻 Sample](https://github.com/agespinoza/komatsu-mining-analytics/blob/main/README.md)
 </div>
 
 ---
 
-# What I Build
+## 👋 About Me
 
-End-to-end analytics platforms that turn operational data into:
+I’m a  Software Engineer specialized in building scalable data and cloud solutions for industrial environments.
 
-- Trusted KPIs  
-- Scalable cloud solutions  
-- Production-ready data services  
+My work focuses on transforming operational data into reliable, production-ready analytics platforms using **Azure, Python, and modern data architectures**.
 
-From ingestion → transformation → curated model → consumption.
+Beyond technology, I’m passionate about:
 
+- 🚀 Delivering real business impact through data  
+- 👩‍🏫 Mentoring and knowledge sharing  
+- 🧠 Continuous learning and technical leadership  
 
 ---
 
@@ -53,6 +54,7 @@ From ingestion → transformation → curated model → consumption.
 </div>
 
 <div class="card">
+
 ### OPUS Inspection
 
 - Data warehouse migration to Azure
@@ -91,7 +93,6 @@ From ingestion → transformation → curated model → consumption.
 </div>
 
 ---
-
 
 
 # Leadership & Communication
@@ -178,6 +179,22 @@ What I bring:
 - Repeatable pipelines
 
 ---
+
+# What I Build
+
+End-to-end analytics platforms that turn operational data into:
+
+- Trusted KPIs  
+- Scalable cloud solutions  
+- Production-ready data services  
+
+
+From ingestion → transformation → curated model → consumption.
+
+Data is ingested in its raw form for traceability, transformed into clean and standardized datasets, curated into trusted business KPIs, modeled in a semantic layer for performant analytics, and consumed through dashboards that drive operational decisions.
+
+---
+
 
 # Sample & KPIs
 
