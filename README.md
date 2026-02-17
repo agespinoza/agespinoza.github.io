@@ -54,7 +54,7 @@ Software Engineer with 20+ years of experience delivering scalable, high-impact 
 -  [Virginia OPUS VID CENTRAL Project](https://nova.servicingdivision.com/Account/Login?ReturnUrl=%2F)
 
 ### Software Programmer – MISOM Technologies | Jan 2017 – Apr 2017
-- Developed business intelligence systems and automated ETL reporting.
+- Developed business intelligence systems and automated ETL reporting, using Mapbox to provide real-time visibility into fleet status across the mine, improving operational awareness and response time.
 
 ### Freelance Consultant – Mexicali, B.C., Mexico | Sep 2008 – Dec 2016
 - Delivered interactive web and desktop applications using HTML/CSS, JQuery, C#, C++, Java, and PHP.
