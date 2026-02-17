@@ -8,7 +8,7 @@ layout: cover
 ---
 
 # Alicia Espinoza
-## Senior Software Engineer · Data & Cloud Analytics
+##  Software Engineer · Data & Cloud Analytics
 
 Mining Technology · Analytics Platforms · Azure SQL · Power BI
 
